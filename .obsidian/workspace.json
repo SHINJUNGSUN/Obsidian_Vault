@@ -11,10 +11,14 @@
             "id": "edc5c0acadbed4ec",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "START HERE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "START HERE"
             }
           }
         ]
@@ -179,18 +183,18 @@
   },
   "active": "edc5c0acadbed4ec",
   "lastOpenFiles": [
+    "MOC/Spring.md",
     "MOC/Redis.md",
+    "MOC/MySQL.md",
+    "MOC/Kafka.md",
+    "MOC/Java.md",
+    "MOC/IoT-BLE.md",
+    "MOC/DDD.md",
     "START HERE.md",
     "+Templates/TIL Template.md",
     "+Templates/Troubleshooting Template.md",
     "+Templates/Knowledge Template.md",
-    "MOC/IoT-BLE.md",
-    "MOC/DDD.md",
-    "MOC/Kafka.md",
-    "MOC/MySQL.md",
     "MOC/React Native.md",
-    "MOC/Spring.md",
-    "MOC/Java.md",
     "+Archive",
     "+Templates",
     "+TIL",
