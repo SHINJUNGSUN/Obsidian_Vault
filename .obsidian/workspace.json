@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7d7b86ba91225a24",
+        "id": "71dc62795129b028",
         "type": "tabs",
         "children": [
           {
-            "id": "ec26c3a35ed4f5ce",
+            "id": "edc5c0acadbed4ec",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -177,9 +177,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "ec26c3a35ed4f5ce",
+  "active": "edc5c0acadbed4ec",
   "lastOpenFiles": [
+    "MOC/Redis.md",
     "START HERE.md",
+    "+Templates/TIL Template.md",
+    "+Templates/Troubleshooting Template.md",
+    "+Templates/Knowledge Template.md",
+    "MOC/IoT-BLE.md",
+    "MOC/DDD.md",
+    "MOC/Kafka.md",
+    "MOC/MySQL.md",
+    "MOC/React Native.md",
+    "MOC/Spring.md",
+    "MOC/Java.md",
+    "+Archive",
+    "+Templates",
+    "+TIL",
+    "+Inbox",
+    "Knowledge",
+    "MOC",
     "2-TIL/2026-02-19-Claude-MCP-Obsidian-연동.md",
     "Templates/TIL Template.md",
     "Templates/Project Template.md",
@@ -188,8 +205,6 @@
     "Templates",
     "4-Archive",
     "3-Resources",
-    "2-TIL",
-    "1-Projects",
-    "0-Inbox"
+    "2-TIL"
   ]
 }
