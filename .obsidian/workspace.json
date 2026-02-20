@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC/Spring.md",
+                "file": "START HERE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring"
+              "title": "START HERE"
             }
           }
         ]
@@ -183,13 +183,16 @@
   },
   "active": "edc5c0acadbed4ec",
   "lastOpenFiles": [
+    "MOC/DDD.md.1771577454506.backup",
+    "MOC/MySQL.md.1771577441672.backup",
+    "MOC/Java.md.1771577427150.backup",
+    "MOC/Spring.md",
     "MOC/Redis.md",
     "MOC/React Native.md",
     "MOC/MySQL.md",
     "MOC/Kafka.md",
     "MOC/Java.md",
     "START HERE.md",
-    "MOC/Spring.md",
     "MOC/IoT-BLE.md",
     "MOC/DDD.md",
     "+Templates/TIL Template.md",
@@ -207,8 +210,6 @@
     "Welcome.md",
     "Templates/Troubleshooting Template.md",
     "Templates",
-    "4-Archive",
-    "3-Resources",
-    "2-TIL"
+    "4-Archive"
   ]
 }
