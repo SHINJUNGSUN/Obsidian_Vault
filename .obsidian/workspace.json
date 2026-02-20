@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC/React Native.md",
+                "file": "Knowledge/Redis 분산 락으로 동시성 제어.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React Native"
+              "title": "Redis 분산 락으로 동시성 제어"
             }
           }
         ]
@@ -183,6 +183,7 @@
   },
   "active": "edc5c0acadbed4ec",
   "lastOpenFiles": [
+    "MOC/React Native.md",
     "MOC/Redis.md",
     "MOC/DDD.md",
     "Knowledge/Redis 분산 락으로 동시성 제어.md",
@@ -190,7 +191,6 @@
     "MOC/IoT-BLE.md",
     "MOC/Java.md",
     "MOC/Kafka.md",
-    "MOC/React Native.md",
     "START HERE.md",
     "MOC/IoT-BLE.md.1771577459345.backup",
     "MOC/DDD.md.1771577454506.backup",
